@@ -1,0 +1,40 @@
+
+.not-visible {
+    display: none;
+}
+
+.dropzone-new{
+    /* border-style: dashed;
+    border-radius: 5px;
+    border-color: #ddd; */
+    transition: .5s;
+    border: 2px dashed #0087F7;
+    border-radius: 5px;
+    background: white;
+}
+
+.dropzone-new:hover{
+    background-color: #aec8dd;
+}
+.avatar-sm {
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
+.avatar-big{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.logo-sm{
+    height:30px;
+    width: auto;
+}
+
+.container-login {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

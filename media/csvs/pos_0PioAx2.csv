@@ -1,0 +1,9 @@
+Pos,Transcation id,Product,Quantity ,Customer,Date
+1,E100,Tv,1,Test Customer,2021-05-23
+2,E100,Laptop,3,Test Customer,2021-05-23
+3,E200,Tv,1,Test Customer,2021-05-24
+4,E300,Smartphone,2,New Customer,2021-05-25
+5,E300,Laptop,5,Test Customer,2021-05-25
+6,E300,Tv,1,Test Customer,2021-05-25
+7,E400,Tv,2,ABC,2021-05-26
+8,E500,Smartphone,4,ABC,2021-05-27
